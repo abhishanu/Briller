@@ -1,0 +1,1 @@
+This project will be used to connect to mail servers and fetch the data for the tone analysis
